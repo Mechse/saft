@@ -14,3 +14,6 @@ DerivedData/
 .vscode/
 .idea/
 *.swp
+
+# Tutorials (local learning material, not part of the project)
+tutorial/
