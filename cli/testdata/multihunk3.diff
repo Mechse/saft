@@ -1,0 +1,27 @@
+diff --git a/f.txt b/f.txt
+index bab081f..2437e19 100644
+--- a/f.txt
++++ b/f.txt
+@@ -1,5 +1,5 @@
+ line 1
+-line 2
++line 2 A
+ line 3
+ line 4
+ line 5
+@@ -17,7 +17,7 @@ line 16
+ line 17
+ line 18
+ line 19
+-line 20
++line 20 B
+ line 21
+ line 22
+ line 23
+@@ -36,5 +36,5 @@ line 35
+ line 36
+ line 37
+ line 38
+-line 39
++line 39 C
+ line 40

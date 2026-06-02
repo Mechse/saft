@@ -1,0 +1,8 @@
+diff --git a/newf.txt b/newf.txt
+new file mode 100644
+index 0000000..5786b13
+--- /dev/null
++++ b/newf.txt
+@@ -0,0 +1,2 @@
++brand
++new

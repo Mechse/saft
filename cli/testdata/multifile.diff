@@ -1,0 +1,16 @@
+diff --git a/c.txt b/c.txt
+index d0aaf97..e1e44df 100644
+--- a/c.txt
++++ b/c.txt
+@@ -1,2 +1,2 @@
+ c1
+-c2
++c2 z
+diff --git a/d.txt b/d.txt
+index ddbe444..19f6e7f 100644
+--- a/d.txt
++++ b/d.txt
+@@ -1,2 +1,2 @@
+-d1
++d1 z
+ d2
